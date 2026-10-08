@@ -7,3 +7,8 @@ logs/
 
 # Course material (not ours to publish)
 *.pdf
+
+# Personal notes and local tool settings (not part of the deliverable)
+CLAUDE.md
+docs/
+.claude/
